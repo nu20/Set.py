@@ -1,0 +1,15 @@
+SetA = {1 , 2 , 4 , 5 ,6}
+SetB = {2 , 3 , 7 , 8 , 1}
+intersectionSetAandSetB = SetA.intersection(SetB)
+print ("Set B : ", (SetA) )
+print ("Set A : ", (SetB) ) 
+Print(""""""""'""""''"""'"""""""""""""") 
+unionSetAandSetB = SetA.union(SetB)
+print ("Set B : ", (SetB) )
+print ("Set A : ", (SetA) )
+print ("A Union B"  : unionAandB)
+Print(""""""""'""""''"""'"""""""""""""")
+differenceSetAandSetB = SetA.difference(SetB)
+print ("Set B : ", (SetB) )
+print ("Set A : ", (SetA) )
+print ("A difference B"  : differenceAandB)
